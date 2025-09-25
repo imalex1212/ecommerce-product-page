@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+body{
+     font-family: "Kumbh Sans", sans-serif;
+}
+
+.text-preset-1{
+    font-size: 44px;
+    line-height: 48px;
+    font-weight: bold;
+}
+
+.text-preset-2{
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: bold;
+}
+
+.text-preset-3-bold{
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: bold;
+}
+
+.text-preset-3-mobile{
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: bold;
+}
+
+.text-preset-3-regular{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+}
+
+.text-preset-4{
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 400;
+}
+
+.text-preset-5{
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.text-preset-6{
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 1.85px;
+    font-weight: bold;
+}
